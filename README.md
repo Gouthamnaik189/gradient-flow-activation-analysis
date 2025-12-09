@@ -25,7 +25,6 @@ This project requires Python 3.x and the following libraries:
 ```bash
 pip install torch torchvision matplotlib numpy
 
-```markdown
 ## How to Run the Experiment
 
 1.  **Clone the Repository:**
